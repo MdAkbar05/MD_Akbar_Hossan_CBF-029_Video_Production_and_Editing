@@ -36,8 +36,7 @@ Welcome to the **Video Production and Editing Training Program**. This foundatio
 | **Name:**                                                  | MD. Akbar Hossan payel                                                                                                                                        |
 | **Mobile No:**                                             | +8801879808105                                                                                                                                                |
 | **Email ID:**                                              | akbar.hossan.official@gmail.com                                                                                                                               |
-| **Portfolio Profile:**                                     |
-| [Connect on Portfolio](https:/akbar-hossan05.netlify.app/) |
+| **Portfolio Profile:**                                     || [Connect on Portfolio](https:/akbar-hossan05.netlify.app/) |
 | **LinkedIn Profile:**                                      | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn](https://www.linkedin.com/in/akbarhossan05/)               |
 | **GitHub Profile:**                                        | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub](https://github.com/MdAkbar05)                                          |
 | **Freelancing Profile:**                                   | ![Freelancing](https://img.shields.io/badge/Freelancing-Portfolio-green) [Check Freelancing Portfolio](https://www.fiverr.com/akbar_hossan5)                  |
