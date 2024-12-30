@@ -77,19 +77,7 @@ Folder: [Task_4](Task_4)
 
 - Contains additional tasks and resources.
 
-## MD_Akbar_Hossan_CBF-029_Video Production and Editing
 
-### Final
-
-Folder: [MD_Akbar_Hossan_CBF-029_Video Production and Editing/Final](MD_Akbar_Hossan_CBF-029_Video%20Production%20and%20Editing/Final)
-
-- Contains final project files and raw files for various questions.
-
-### Mid Term
-
-Folder: [MD_Akbar_Hossan_CBF-029_Video Production and Editing/Mid Term](MD_Akbar_Hossan_CBF-029_Video%20Production%20and%20Editing/Mid%20Term)
-
-- Contains mid-term project files and raw files for various questions.
 
 ---
 
