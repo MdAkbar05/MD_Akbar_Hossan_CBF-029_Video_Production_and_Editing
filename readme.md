@@ -93,7 +93,7 @@ Folder: [Assignment_2/ReversEffect](Assignment_2/ReversEffect)
 
 Folder: [Assignment_3/Edit-video-with-intro-outro](Assignment_3/Edit-video-with-intro-outro)
 
-- **Topic:** Cristian Romero best tackle
+- **Topic:** Speedy car racing show up.
 - **Description:** Create a video with intro, outro, transition, and various effects.
 
 ### Assignment 4: Blender Software Documentation
