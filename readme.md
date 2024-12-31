@@ -33,7 +33,7 @@ Welcome to the **Video Production and Editing Training Program**. This foundatio
 
 | Field                                                      | Details                                                                                                                                                       |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Name:**                                                  | MD. Akbar Hossan payel                                                                                                                                        |
+| **Name:**                                                  | MD. Akbar Hossan                                                                                                                                       |
 | **Mobile No:**                                             | +8801879808105                                                                                                                                                |
 | **Email ID:**                                              | akbar.hossan.official@gmail.com                                                                                                                               |
 | **Portfolio Profile:**                                     | [Connect on Portfolio](https:/akbar-hossan05.netlify.app/) |
